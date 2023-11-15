@@ -9,3 +9,4 @@ featured1 branch is working .
 featured1 branch is working .
 
 >>>>>>> ca24a4e2cdb7d4fb9ccc23dfa5d57a25ddaa0b07
+featured2 branch is working 
